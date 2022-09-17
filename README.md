@@ -8,10 +8,10 @@
 
 <a href="https://www.instagram.com/_lucashcoliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F ?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/lucas-henrique-9a557620b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+</div>
+
 ## MINHAS ESTATÍSTICAS
 ![LucasHCOliveira7 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHCOliveira7&show_icons=true&theme=dark)
-
-</div>
 
 ## LINGUAGENS CONHECIDAS
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank"></a>
