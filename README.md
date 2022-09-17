@@ -12,3 +12,6 @@
 ![LucasHCOliveira7 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHCOliveira7&show_icons=true&theme=dark)
 
 </div>
+
+## LINGUAGENS CONHECIDAS
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank"></a>
