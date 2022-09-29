@@ -1,6 +1,6 @@
 <div align="center">
 
-# **EAE GALERA! EU SOU O LUCAS**
+# **EAE GALERA TRANKS! LUCAS AQUI!**
 
 ![B](https://user-images.githubusercontent.com/81196630/189792471-15e3673c-dc79-443c-8d98-b488fc4fbe63.gif)
 
