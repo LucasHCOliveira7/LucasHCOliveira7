@@ -18,6 +18,4 @@
 
 ![snake gif](https://github.com/LucasHCOliveira7/LucasHCOliveira7/blob/output/github-contribution-grid-snake.svg)
 
-Quer adicionar a animação Snake Game, [Clique aqui](https://www.youtube.com/watch?v=JywQJ2qHfPg)
-
 </div>
