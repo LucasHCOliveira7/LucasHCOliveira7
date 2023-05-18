@@ -18,5 +18,10 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 
 ![snake gif](https://github.com/LucasHCOliveira7/LucasHCOliveira7/blob/output/github-contribution-grid-snake.svg)
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasHCOliveira7}/count.svg" /></p> 
+<br></div>  
 
 </div>
