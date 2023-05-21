@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasHCOliveira7&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasHCOliveira7&theme=react-dark&hide_border=true&bg_color=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasHCOliveira7&show_icons=true&theme=transparent"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHCOliveira7&layout=compact&langs_count=7&theme=transparent"/>
 
@@ -35,4 +35,4 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0a16c4&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0a16c4&height=150&section=footer&text=VOLTE+SEMPRE&animation=fadeIn&fontAlignY=50&fontSize=40&fontColor=FFFAFA"/>
