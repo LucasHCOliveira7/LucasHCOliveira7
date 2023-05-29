@@ -7,8 +7,6 @@
 <br/>
 
 <div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasHCOliveira7&theme=react-dark&hide_border=true&bg_color=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasHCOliveira7&show_icons=true&theme=transparent"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHCOliveira7&layout=compact&langs_count=7&theme=transparent"/>
 
