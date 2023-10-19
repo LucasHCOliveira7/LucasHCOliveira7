@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0a16c4&height=150&section=header&text=SEJA+BEM+VINDO&animation=fadeIn&fontAlignY=50&fontSize=40&fontColor=FFFAFA"/><br/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0a16c4&height=150&section=header&text=WELCOME&animation=fadeIn&fontAlignY=50&fontSize=40&fontColor=FFFAFA"/><br/>
 
 <br/>
 
@@ -29,4 +29,4 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0a16c4&height=150&section=footer&text=VOLTE+SEMPRE&animation=fadeIn&fontAlignY=50&fontSize=40&fontColor=FFFAFA"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0a16c4&height=150&section=footer&text=CHECK+BACK+OFTEN&animation=fadeIn&fontAlignY=50&fontSize=40&fontColor=FFFAFA"/>
