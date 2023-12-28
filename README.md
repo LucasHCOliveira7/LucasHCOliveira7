@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0a16c4&height=150&section=header&text=WELCOME&animation=fadeIn&fontAlignY=50&fontSize=40&fontColor=FFFAFA"/><br/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0a16c4&height=100&section=header&text=WELCOME&animation=fadeIn&fontAlignY=50&fontSize=40&fontColor=FFFAFA"/><br/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Lucas+Henrique;I'm+21+years+old;I'm+from+São+José+dos+Campos-São+Paulo,+Brasil;I'm+a+database+student+in+Fatec-SJC)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Lucas+Henrique;I'm+21+years+old;I'm+from+São+José+dos+Campos+-+São+Paulo,+Brasil;I'm+a+database+student+in+Fatec-SJC)](https://git.io/typing-svg)<br/>
   
 <br/>
 
@@ -29,4 +29,4 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0a16c4&height=150&section=footer&text=CHECK+BACK+OFTEN&animation=fadeIn&fontAlignY=50&fontSize=40&fontColor=FFFAFA"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0a16c4&height=100&section=footer&animation=fadeIn&fontAlignY=50&fontSize=40&fontColor=FFFAFA"/>
