@@ -34,6 +34,13 @@
 <br>
 
 ## Contributions:
+
+<details>
+
+<summary>SEE MY PROJECTS: </summary>
+
+<br>
+
 <table>
   <tr>
     <td width="50%">
@@ -144,7 +151,8 @@
   </tr>
 </table>
 
-<br>
+</details>
+
 <br>
 
 ## Contact me:
