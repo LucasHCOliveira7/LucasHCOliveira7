@@ -6,9 +6,9 @@
 
 <div align="center">
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasHCOliveira7&show_icons=true&rank_icon=github&theme=transparent"/> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHCOliveira7&layout=compact&langs_count=7&theme=transparent"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasHCOliveira7&theme=transparent&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=850">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LucasHCOliveira7&show_icons=true&rank_icon=github&theme=transparent"/> 
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHCOliveira7&layout=compact&langs_count=7&theme=transparent"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasHCOliveira7&theme=transparent&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=745">
 
 <br>
 <br>
